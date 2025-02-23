@@ -1,0 +1,24 @@
+{
+    "data/1_FinancialResults_05022025142214.pdf": {
+        "Company Name": "Eveready Industries India Ltd.",
+        "Report Date": "5th February 2025",
+        "Profit Before Tax": "86.25 Crores",
+        "Additional Details": {
+            "Revenue": "1,045.10 Crores",
+            "Total Expenses": "960.04 Crores",
+            "Net Profit": "71.31 Crores",
+            "Tax Expense": "14.34 Crores"
+        }
+    },
+    "data/Amaar raja Earnings Summary.pdf": {
+        "Company Name": "Amara Raja Energy & Mobility Limited",
+        "Report Date": "November 04, 2024",
+        "Profit Before Tax": "652.63 Crores",
+        "Additional Details": {
+            "Revenue": "6,311.04 Crores",
+            "Total Expenses": "5,658.41 Crores",
+            "Net Profit": "485.26 Crores",
+            "Tax Expense": "167.37 Crores"
+        }
+    }
+}
